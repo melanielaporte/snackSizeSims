@@ -1,6 +1,6 @@
 # snackSizeSims
 
-Welcome! I love the Sims game so I made you a mini version. 
+Welcome! I love the Sims game so I made a mini version. Note! It's under construction.
 
 ### How to Play:
 
